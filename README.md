@@ -4,8 +4,6 @@
 <h3 align="center">👀 I’m interested in mobile programming</h3>
 <h3 align="center">📫 you can contact me 	hasanbktas1@gmail.com</h3>
 
-<img align="right" height="270px" alt="guy" width="350" src="https://giphy.com/gifs/GDevs-android-developer-summit-llarwdtFqG63IlqUR1" /> </a>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left"> <a href="mailto:hasanbktas1@gmail.com"> <img src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_512px.png" width="40" align="center" alt="Gmail"/></a> <a href="https://https://www.linkedin.com/in/hasanbektass"><img src="https://pngimg.com/uploads/linkedIn/small/linkedIn_PNG12.png" width="40" align="center" alt="LinkedIn"/></a></p>
 
