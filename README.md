@@ -10,13 +10,15 @@ Mobile Application Developer • Flutter • React Native
 Building modern cross-platform mobile applications 📱
 </p>
 
-<h3 align="center">📫 Contact: hasanbktas1@gmail.com</h3>
+<p align="center">
+📫 <strong>hasanbktas1@gmail.com</strong>
+</p>
 
 <p align="center">
 <a href="mailto:hasanbktas1@gmail.com">
 <img src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_512px.png" width="40" alt="Gmail"/>
 </a>
-
+&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/hasanbektass">
 <img src="https://pngimg.com/uploads/linkedIn/small/linkedIn_PNG12.png" width="40" alt="LinkedIn"/>
 </a>
@@ -31,8 +33,8 @@ Building modern cross-platform mobile applications 📱
 - ⚛️ React Native Developer
 - 🍎 iOS & Android Development
 - 🔥 Firebase
-- 🤖 AI-Powered Mobile Applications
-- 🌱 Currently improving my React Native & Backend skills
+- 🤖 Building AI-powered mobile applications
+- 🌱 Currently learning React Native and Backend Development
 
 ---
 
@@ -40,6 +42,7 @@ Building modern cross-platform mobile applications 📱
 
 <table>
 <tr>
+
 <td align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="50"/><br><b>Flutter</b>
 </td>
@@ -53,19 +56,9 @@ Building modern cross-platform mobile applications 📱
 </td>
 
 <td align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50"/><br><b>TypeScript</b>
-</td>
-
-<td align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/><br><b>JavaScript</b>
-</td>
-
-<td align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="50"/><br><b>Kotlin</b>
 </td>
-</tr>
 
-<tr>
 <td align="center">
 <img src="https://developer.android.com/images/logos/android.svg" width="50"/><br><b>Android</b>
 </td>
@@ -73,6 +66,10 @@ Building modern cross-platform mobile applications 📱
 <td align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" width="50"/><br><b>iOS</b>
 </td>
+
+</tr>
+
+<tr>
 
 <td align="center">
 <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="50"/><br><b>Firebase</b>
@@ -89,9 +86,7 @@ Building modern cross-platform mobile applications 📱
 <td align="center">
 <img src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg" width="50"/><br><b>Supabase</b>
 </td>
-</tr>
 
-<tr>
 <td align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50"/><br><b>VS Code</b>
 </td>
@@ -99,6 +94,10 @@ Building modern cross-platform mobile applications 📱
 <td align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="50"/><br><b>Android Studio</b>
 </td>
+
+</tr>
+
+<tr>
 
 <td align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" width="50"/><br><b>Xcode</b>
@@ -115,6 +114,10 @@ Building modern cross-platform mobile applications 📱
 <td align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50"/><br><b>GitHub</b>
 </td>
+
+<td></td>
+<td></td>
+
 </tr>
 </table>
 
@@ -123,6 +126,6 @@ Building modern cross-platform mobile applications 📱
 ## 📊 GitHub Stats
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=HasanBektas&show_icons=true&theme=tokyonight"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HasanBektas&layout=compact&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
