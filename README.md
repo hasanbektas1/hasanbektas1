@@ -1,135 +1,103 @@
-# HasanBektas
+<div align="center">
 
-<h1 align="center">Hi 👋, I'm Hasan Bektaş</h1>
+# Hi 👋 I'm Hasan Bektaş
 
-<h3 align="center">
-Mobile Application Developer • Flutter • React Native
-</h3>
+### 📱 Mobile Application Developer
 
-<p align="center">
-Building modern cross-platform mobile applications 📱
-</p>
+Building beautiful cross-platform mobile apps with **Flutter**, **React Native** and **AI**.
 
-<p align="center">
-📫 <strong>hasanbktas1@gmail.com</strong>
-</p>
+<br>
 
-<p align="center">
 <a href="mailto:hasanbktas1@gmail.com">
-<img src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_512px.png" width="40" alt="Gmail"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-&nbsp;&nbsp;
+
 <a href="https://www.linkedin.com/in/hasanbektass">
-<img src="https://pngimg.com/uploads/linkedIn/small/linkedIn_PNG12.png" width="40" alt="LinkedIn"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-</p>
+
+</div>
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
-- 📱 Mobile Application Developer
-- 💙 Flutter Developer
-- ⚛️ React Native Developer
-- 🍎 Building cross-platform iOS & Android applications
-- 🔥 Firebase & Supabase
-- 🤖 Building AI-powered mobile applications
-- 🌱 Currently learning Backend Development
+```dart
+class HasanBektas {
 
----
+  final role = "Mobile Application Developer";
 
-## 🛠️ Languages & Tools
+  final languages = [
+    "Dart",
+    "Kotlin"
+  ];
 
-<table>
-<tr>
+  final frameworks = [
+    "Flutter",
+    "React Native"
+  ];
 
-<td align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="50"/><br><b>Flutter</b>
-</td>
+  final interests = [
+    "Mobile Development",
+    "Artificial Intelligence",
+    "UI/UX",
+    "Backend",
+    "Automation"
+  ];
 
-<td align="center">
-<img src="https://reactnative.dev/img/header_logo.svg" width="50"/><br><b>React Native</b>
-</td>
-
-<td align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="50"/><br><b>Dart</b>
-</td>
-
-<td align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="50"/><br><b>Kotlin</b>
-</td>
-
-<td align="center">
-<img src="https://developer.android.com/images/logos/android.svg" width="50"/><br><b>Android</b>
-</td>
-
-<td align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" width="50"/><br><b>iOS</b>
-</td>
-
-</tr>
-
-<tr>
-
-<td align="center">
-<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="50"/><br><b>Firebase</b>
-</td>
-
-<td align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"/><br><b>Git</b>
-</td>
-
-<td align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="50"/><br><b>SQLite</b>
-</td>
-
-<td align="center">
-<img src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg" width="50"/><br><b>Supabase</b>
-</td>
-
-<td align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50"/><br><b>VS Code</b>
-</td>
-
-<td align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="50"/><br><b>Android Studio</b>
-</td>
-
-</tr>
-
-<tr>
-
-<td align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" width="50"/><br><b>Xcode</b>
-</td>
-
-<td align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50"/><br><b>Figma</b>
-</td>
-
-<td align="center">
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="50"/><br><b>Postman</b>
-</td>
-
-<td align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50"/><br><b>GitHub</b>
-</td>
-
-<td></td>
-<td></td>
-
-</tr>
-</table>
+}
+```
 
 ---
 
-## 📊 GitHub Stats
+# 🛠 Tech Stack
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=hasanbektas1&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasanbektas1&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<img src="https://skillicons.dev/icons?i=flutter,react,dart,kotlin,firebase,supabase,git,github,vscode,androidstudio,figma,sqlite,postman&perline=7"/>
+
 </p>
 
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=hasanbektas1&theme=tokyonight&hide_border=true"/>
-</p>
+---
+
+# 🤖 AI
+
+- ✨ AI Powered Mobile Applications
+- 🧠 LLM Integrations
+- 🎨 AI Image Generation
+- 💬 AI Chat Applications
+- ⚡ Prompt Engineering
+- 🔗 REST API Integrations
+
+---
+
+# 📱 What I Build
+
+✅ Cross Platform Mobile Apps
+
+✅ AI Integrated Applications
+
+✅ Firebase Projects
+
+✅ REST API Based Apps
+
+✅ Clean UI / UX
+
+✅ App Store & Google Play Ready Apps
+
+---
+
+# 🌱 Currently Learning
+
+- React Native
+- Backend Development
+- AI Agents
+- Cloud Technologies
+
+---
+
+<div align="center">
+
+### 💙 Thanks for visiting my profile!
+
+</div>
