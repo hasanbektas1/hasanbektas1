@@ -31,10 +31,10 @@ Building modern cross-platform mobile applications 📱
 - 📱 Mobile Application Developer
 - 💙 Flutter Developer
 - ⚛️ React Native Developer
-- 🍎 iOS & Android Development
-- 🔥 Firebase
+- 🍎 Building cross-platform iOS & Android applications
+- 🔥 Firebase & Supabase
 - 🤖 Building AI-powered mobile applications
-- 🌱 Currently learning React Native and Backend Development
+- 🌱 Currently learning Backend Development
 
 ---
 
@@ -126,6 +126,10 @@ Building modern cross-platform mobile applications 📱
 ## 📊 GitHub Stats
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=hasanbektas1&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasanbektas1&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=hasanbektas1&theme=tokyonight&hide_border=true"/>
 </p>
